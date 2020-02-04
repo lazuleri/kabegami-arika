@@ -1,5 +1,5 @@
 # 壁紙ダウンロード (wallpaper download)
-this is a simple bash script that downloads every wallpaper from [arikas](http://www.arika.co.jp/index.html) wallpaper page  
+this is a simple bash script that downloads every wallpaper from [arika](http://www.arika.co.jp/index.html) wallpaper page  
 by default it will make a folder called "arika" and download every wallpaper in 1920\*1080 (maximum) in it  
 note that if you leave the files in the folder then they will not be downloaded again if you run the script another time  
 
